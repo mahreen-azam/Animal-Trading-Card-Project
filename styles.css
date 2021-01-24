@@ -1,0 +1,36 @@
+/* add your CSS here */
+.total_container {
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid grey;
+    box-shadow: 10px 10px #f3f1f1;
+}
+
+.information_container {
+    font-size: 14pt;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li span {
+    font-weight: bold;
+    text-align: left;
+}
+
+#fact {
+    font-style: italic;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+  }
